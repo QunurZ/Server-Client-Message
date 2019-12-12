@@ -1,0 +1,10 @@
+Z:\C# Projects\AsyncClientTest\AsyncClientTest\bin\Debug\AsyncClientTest.exe.config
+Z:\C# Projects\AsyncClientTest\AsyncClientTest\bin\Debug\AsyncClientTest.exe
+Z:\C# Projects\AsyncClientTest\AsyncClientTest\bin\Debug\AsyncClientTest.pdb
+Z:\C# Projects\AsyncClientTest\AsyncClientTest\obj\Debug\AsyncClientTest.csprojAssemblyReference.cache
+Z:\C# Projects\AsyncClientTest\AsyncClientTest\obj\Debug\AsyncClientTest.Form1.resources
+Z:\C# Projects\AsyncClientTest\AsyncClientTest\obj\Debug\AsyncClientTest.Properties.Resources.resources
+Z:\C# Projects\AsyncClientTest\AsyncClientTest\obj\Debug\AsyncClientTest.csproj.GenerateResource.cache
+Z:\C# Projects\AsyncClientTest\AsyncClientTest\obj\Debug\AsyncClientTest.csproj.CoreCompileInputs.cache
+Z:\C# Projects\AsyncClientTest\AsyncClientTest\obj\Debug\AsyncClientTest.exe
+Z:\C# Projects\AsyncClientTest\AsyncClientTest\obj\Debug\AsyncClientTest.pdb

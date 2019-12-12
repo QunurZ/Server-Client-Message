@@ -1,0 +1,10 @@
+Z:\C# Projects\AsyncServerTest\AsyncServerTest\bin\Debug\AsyncServerTest.exe.config
+Z:\C# Projects\AsyncServerTest\AsyncServerTest\bin\Debug\AsyncServerTest.exe
+Z:\C# Projects\AsyncServerTest\AsyncServerTest\bin\Debug\AsyncServerTest.pdb
+Z:\C# Projects\AsyncServerTest\AsyncServerTest\obj\Debug\AsyncServerTest.csprojAssemblyReference.cache
+Z:\C# Projects\AsyncServerTest\AsyncServerTest\obj\Debug\AsyncServerTest.Form1.resources
+Z:\C# Projects\AsyncServerTest\AsyncServerTest\obj\Debug\AsyncServerTest.Properties.Resources.resources
+Z:\C# Projects\AsyncServerTest\AsyncServerTest\obj\Debug\AsyncServerTest.csproj.GenerateResource.cache
+Z:\C# Projects\AsyncServerTest\AsyncServerTest\obj\Debug\AsyncServerTest.csproj.CoreCompileInputs.cache
+Z:\C# Projects\AsyncServerTest\AsyncServerTest\obj\Debug\AsyncServerTest.exe
+Z:\C# Projects\AsyncServerTest\AsyncServerTest\obj\Debug\AsyncServerTest.pdb

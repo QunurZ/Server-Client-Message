@@ -1,0 +1,9 @@
+Z:\C# Projects\AsyncClientTest\AsyncClientTest\bin\Release\AsyncClientTest.exe.config
+Z:\C# Projects\AsyncClientTest\AsyncClientTest\bin\Release\AsyncClientTest.exe
+Z:\C# Projects\AsyncClientTest\AsyncClientTest\bin\Release\AsyncClientTest.pdb
+Z:\C# Projects\AsyncClientTest\AsyncClientTest\obj\Release\AsyncClientTest.Form1.resources
+Z:\C# Projects\AsyncClientTest\AsyncClientTest\obj\Release\AsyncClientTest.Properties.Resources.resources
+Z:\C# Projects\AsyncClientTest\AsyncClientTest\obj\Release\AsyncClientTest.csproj.GenerateResource.cache
+Z:\C# Projects\AsyncClientTest\AsyncClientTest\obj\Release\AsyncClientTest.csproj.CoreCompileInputs.cache
+Z:\C# Projects\AsyncClientTest\AsyncClientTest\obj\Release\AsyncClientTest.exe
+Z:\C# Projects\AsyncClientTest\AsyncClientTest\obj\Release\AsyncClientTest.pdb
